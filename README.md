@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-ahadi/) 
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6a20092d11fa913c06bde51c?variant=dark)](https://roadmap.sh)
+
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue?style=for-the-badge&logo=python)
