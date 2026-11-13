@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-ahadi/) 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6a20092d11fa913c06bde51c?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6a20092d11fa913c06bde51c?variant=dark&roadmaps=python)](https://roadmap.sh)
 
 # 💻 Tech Stack:
 
